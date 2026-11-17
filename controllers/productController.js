@@ -13,6 +13,13 @@ const products = [
         price: 150000,
         category: "Electronics",
         quantity: 10
+    },
+     {
+        id: 3,
+        name: "fan",
+        price: 1000,
+        category: "electronics",
+        quantity: 5
     }
 ];
 
